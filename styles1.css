@@ -1,0 +1,47 @@
+h3{
+    color: rgb(100, 13, 100) ;
+    text-align: center;
+    font-size: 40px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-weight: bolder;
+    text-transform: capitalize;
+    
+}
+
+body{
+    background: url("/media/1286468.jpg");
+    
+    
+}
+
+.regform 
+{
+    color:white;
+    width: 300px;
+    text-align:justify;
+    border-radius: 10px;
+    margin: 250px 650px;
+    background-color: rgba(98, 58, 136,.5);
+    padding: 10px 20px 30px;
+    font-size: 20px;
+}
+
+.abc
+{
+    display:block;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-weight: medium;
+    text-transform: capitalize;
+    
+}
+button{
+    background-color: blueviolet;
+    border-radius: 5px;
+    color: white;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-weight: bolder;
+    text-transform: capitalize;
+    padding: 5px;
+    text-align: center;
+    margin:  20px 100px;
+}
